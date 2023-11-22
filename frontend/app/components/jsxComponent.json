@@ -1,3 +1,0 @@
-{
-  "componentCode": "import React from 'react';\n\nconst ExampleComponent = () => {\n  return <div>Hello from Dynamic Component!</div>;\n};\n\nexport default ExampleComponent;"
-}
