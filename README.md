@@ -29,5 +29,11 @@ git add .
 git commit -m "<commit_message>"
 git push -u origin main
 ```
+<h2>Tech Stack</h2>
+Next Js
+React
+Fast Api
+Mongo DB
+Pinecone
 
 
