@@ -15,11 +15,15 @@ https://ku-2-0.vercel.app/
 
 # TECH
 <a>Next Js</a>
+
 <a>React</a>
+
 <a>Tailwind CSS</a>
 
 <a>Fast Api</a>
+
 <a>Mongo DB</a>
+
 <a>Pinecone</a>
 
 
