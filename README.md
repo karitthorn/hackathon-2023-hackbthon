@@ -10,6 +10,17 @@
 
 -Extension
 
+# demoApp
+https://ku-2-0.vercel.app/
+
+# TECH
+<a>Next Js</a>
+<a>React</a>
+<a>Tailwind CSS</a>
+
+<a>Fast Api</a>
+<a>Mongo DB</a>
+<a>Pinecone</a>
 
 
 
@@ -29,11 +40,6 @@ git add .
 git commit -m "<commit_message>"
 git push -u origin main
 ```
-<h2>Tech Stack</h2>
-<a>Next Js</a>
-<a>React</a>
-<a>Fast Api</a>
-<a>Mongo DB</a>
-<a>Pinecone</a>
+
 
 
