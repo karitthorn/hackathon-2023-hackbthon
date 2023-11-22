@@ -31,9 +31,13 @@ git push -u origin main
 ```
 <h2>Tech Stack</h2>
 <a>Next Js</a>
+
 <a>React</a>
+
 <a>Fast Api</a>
+
 <a>Mongo DB</a>
+
 <a>Pinecone</a>
 
 
