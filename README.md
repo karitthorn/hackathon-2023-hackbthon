@@ -8,13 +8,11 @@ https://www.figma.com/file/7R9S3cic2KWHuMDHd4tV5Q/pitch-deck-HackBthon?type=desi
 
 ## ฟีเจอร์ที่ใช้งานได้
 
--Edoc Tracking
+-Edoc Tracking(Dynamics การติดตามเอกสาร จาก api)
 
--Vin QrCode
+-Vin QrCode(ระบบสเเกน Qrcode วินมอไซต์เเล้วส่งเข้าใน line สามารถใช้ได้จริง)
 
--recommend system
-
--Extension
+-Extension(ระบบ Extension นิสิตสามารถ add extension เเละ นำมาเเสดงให้ user ดู (มี การส่ง Post auth เพื่อให้นิสิตไม่ต้อง login ใหม่) (add and show extension สามารถใช้ได้จรืง))
 
 # demoApp
 https://ku-2-0.vercel.app/
