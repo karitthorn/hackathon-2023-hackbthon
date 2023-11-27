@@ -1,13 +1,8 @@
 # DEV-17
-
-
-
-## Design
-
-https://www.figma.com/file/7R9S3cic2KWHuMDHd4tV5Q/pitch-deck-HackBthon?type=design&node-id=0%3A1&mode=design&t=1DzMiYLvBslQZG8M-1\
+Repository เป็นส่วนหนึ่งของงาน KU Hackathon
+Medium : <a href="https://medium.com/@karitthorn/รีวิว-ku-hackathon-ในฐานะนิสิตปี-1-6cfa3cdc74ee">click me</a>
 
 ## ฟีเจอร์ที่ใช้งานได้
-
 -Edoc Tracking(Dynamics การติดตามเอกสาร จาก api)
 
 -Vin QrCode(ระบบสเเกน Qrcode วินมอไซต์เเล้วส่งเข้าใน line สามารถใช้ได้จริง)
@@ -20,36 +15,17 @@ https://ku-2-0.vercel.app/
 https://api-c3vk.onrender.com/docs
 
 # TECH
-<a>Next Js</a>
-
-<a>React</a>
-
-<a>Tailwind CSS</a>
-
-<a>Fast Api</a>
-
-<a>Mongo DB</a>
-
-<a>Pinecone</a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 
 
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/DRfJgED0)
 # KU Hackathon 2023 
 <p align="center">
 <img width="96px" src="https://s3.tech.nisit.ku.ac.th/assets/ku-hackathon/main-logo.webp" />
 </p>
 
 รายละเอียดโครงการ : https://docs.google.com/document/d/1bn_71K9RF_K8MaBbZNgUAtS7PgFJkon91lOat7AtFxw/edit
-
-
-คำสั่ง git พื้นฐานในการอัปโหลดโค้ดขึ้นมาที่ repository นี้
-
-```bash
-git add .
-git commit -m "<commit_message>"
-git push -u origin main
-```
 
 
 
